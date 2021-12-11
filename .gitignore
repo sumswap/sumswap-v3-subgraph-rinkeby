@@ -1,0 +1,9 @@
+build/
+node_modules/
+src/types/
+sumswap-v3-subgraphql/
+.DS_STORE
+yarn-error.log
+*.zip
+*.rar
+*.7z
